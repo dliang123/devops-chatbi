@@ -54,9 +54,4 @@
 3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
 4. 开启 **Pull Request**
 
----
-
-### 💡 建议提示：
-
-在 GitHub 上，你可以再配上一张 **Agent 思考过程的动图（GIF）**，展示用户输入“分析上周交付效率下降的原因”，然后 Agent 依次进行“意图识别 -> SQL 生成 -> 结果分析 -> 图表绘制”的过程。这种“透明感”最能吸引技术开发者。
 

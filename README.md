@@ -1,8 +1,8 @@
-# 🚀 DevEfficiency-ChatBI: 研发效能领域的智能决策大脑
+# 🚀 DevEfficiency: 研发效能领域的智能决策大脑
 
 > **打破数据孤岛，让研发效能数据“开口说话”。**
 
-**DevEfficiency-ChatBI** 是一款专为研发效能领域打造的智能助手。基于 **Multi-Agent** 架构，它能够理解复杂的研发管理语境，通过自然语言对话直接调取 Jira、GitHub、GitLab、SonarQube 及内部数据库中的指标，并生成深度的效能分析报告。
+**DevEfficiency** 是一款专为研发效能领域打造的智能助手。基于 **Multi-Agent** 架构，它能够理解复杂的研发管理语境，通过自然语言对话直接调取 Jira、GitHub、GitLab、SonarQube 及内部数据库中的指标，并生成深度的效能分析报告。
 
 ---
 
